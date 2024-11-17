@@ -1,0 +1,79 @@
+# This file is for English (United States) translation
+# Plugin: SaaS Subscription Manager
+# Text Domain: saas-subscription-manager
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Plugin Admin Menu
+msgid "SaaS Subscriptions"
+msgstr "SaaS Subscriptions"
+
+msgid "Subscriptions Manager"
+msgstr "Subscriptions Manager"
+
+msgid "Manage Subscriptions"
+msgstr "Manage Subscriptions"
+
+msgid "Create Subscription"
+msgstr "Create Subscription"
+
+msgid "Subscription Level"
+msgstr "Subscription Level"
+
+msgid "Subscription Duration"
+msgstr "Subscription Duration"
+
+msgid "User"
+msgstr "User"
+
+msgid "Subscription Expired"
+msgstr "Subscription Expired"
+
+msgid "Your subscription has expired. Please renew to continue accessing premium features."
+msgstr "Your subscription has expired. Please renew to continue accessing premium features."
+
+msgid "Subscription Created"
+msgstr "Subscription Created"
+
+msgid "Subscription Level - $%s/month"
+msgstr "Subscription Level - $%s/month"
+
+msgid "Choose a Subscription Plan"
+msgstr "Choose a Subscription Plan"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Subscription has been successfully created."
+msgstr "Subscription has been successfully created."
+
+# Messages
+msgid "You have the 'manage_subscriptions' capability."
+msgstr "You have the 'manage_subscriptions' capability."
+
+msgid "You do NOT have the 'manage_subscriptions' capability."
+msgstr "You do NOT have the 'manage_subscriptions' capability."
+
+msgid "Invalid subscription level."
+msgstr "Invalid subscription level."
+
+# Payment related messages
+msgid "Subscription Plan"
+msgstr "Subscription Plan"
+
+msgid "Choose your payment method"
+msgstr "Choose your payment method"
+
+msgid "Payment Processing"
+msgstr "Payment Processing"
+
+msgid "Subscription successfully activated!"
+msgstr "Subscription successfully activated!"
+
+msgid "Your payment has been successfully processed."
+msgstr "Your payment has been successfully processed."
